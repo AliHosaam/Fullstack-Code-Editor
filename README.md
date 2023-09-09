@@ -37,4 +37,4 @@ Key Features:
 Elevate your coding prowess and become a true master of your craft with CodeCraft Pro's Socket integration. Whether you're a seasoned developer or just starting your journey, our fullstack code editor is designed to meet your needs and help you build outstanding applications with real-time capabilities.
 
 
-Note: To get started, clone the repository and run npm install or yarn in both the frontend and backend folders. Get hyped, and embark on a coding journey like never before with CodeCraft Pro! Try it today and experience the difference for yourself. Join the ranks of top-tier developers who trust CodeCraft Pro to bring their coding dreams to life. It's time to code like a pro, in real-time!
+Note: To get started, clone the repository and run npm install or yarn in both the frontend and backend folders. embark on a coding journey like never before with CodeCraft Pro! Try it today and experience the difference for yourself. Join the ranks of top-tier developers who trust CodeCraft Pro to bring their coding dreams to life. It's time to code like a pro, in real-time!
